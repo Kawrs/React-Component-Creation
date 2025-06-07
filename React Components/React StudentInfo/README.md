@@ -1,4 +1,8 @@
-# React + Vite
+#Project Discription
+
+A basic React component of a student information form featureing user input with an alert pop up to confirm the submition of the form
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
