@@ -1,4 +1,4 @@
-#Project Discription
+# Project Discription
 
 A basic React component of a student information form featureing user input with an alert pop up to confirm the submition of the form
 
