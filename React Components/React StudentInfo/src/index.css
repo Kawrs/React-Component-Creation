@@ -1,0 +1,21 @@
+.container{
+  width:90vh;
+  margin: 30vh auto;
+  padding: 20px;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px;
+  background-color: white;
+}
+
+.container .input{
+  margin:10px;
+}
+
+.container .btn{
+  padding:5px;
+}
+body {
+  background-image: url(./assets/oa.jpg);
+}
