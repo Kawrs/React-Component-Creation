@@ -1,4 +1,4 @@
-#Project Discription
+# Project Discription
 
 A basic React component of a Counter featureing state management where every even number changes the background color of the body
 
