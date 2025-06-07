@@ -1,6 +1,6 @@
 #Project Discription
 
-A basic React component of a student information form featureing user input with an alert pop up to confirm the submition of the form
+A basic React component of a Counter featureing state management where every even number changes the background color of the body
 
 ##React + Vite
 
