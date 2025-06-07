@@ -1,0 +1,25 @@
+body{
+  background-color:hsl(319, 89%, 93%);
+}
+.card{
+  border: 1px solid rgb(139, 139, 139);
+  margin:50px;
+  box-shadow: 5px 5px 5px rgb(192, 191, 191);
+  background-color: rgb(255, 255, 255);
+  padding: 20px;
+  text-align: center;
+}
+.card .image{
+  height: 50vh;
+  width: 50vh;
+  border: 2px solid rgb(58, 58, 58);
+  border-radius: 50em;
+}
+.card .message{
+  padding: 1vh 10vh 10vh 10vh;
+  font-style: ariel;
+  color:rgb(58, 58, 58);
+}
+.card .header{
+  color:rgb(58, 58, 58);
+}
