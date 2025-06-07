@@ -1,4 +1,8 @@
-# React + Vite
+# Project Discription
+
+A basic React component of a Welcome Card featuring Display welcome message with props for the name
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
